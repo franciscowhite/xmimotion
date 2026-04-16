@@ -1,3 +1,5 @@
+permissions:
+  contents: read  # 确保有读取仓库内容的权限
 name: 刷步数
 
 on:
